@@ -1,0 +1,11 @@
+Package: torbox-wireless-manager
+Version: 0.1.0
+Priority: optional
+Architecture: all
+Depends: python3, python3-urwid, wpasupplicant, iw
+Maintainer: TorBox <anonym@torbox.ch>
+Description: TorBox Wireless Manager
+ An easy and user friendly way to connect to a wireless networks on terminal with curses app.
+ .
+ Copyright (C) 2024 Patrick Truffer
+

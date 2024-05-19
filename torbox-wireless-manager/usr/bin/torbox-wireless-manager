@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 /usr/share/torbox-wireless-manager/torbox_wireless_manager.py $@
